@@ -49,10 +49,6 @@ This project is built with vanilla web technologies. No build step (npm/webpack)
     * Simply open `index.html` in any modern browser (Chrome, Edge, Firefox).
     * *Note: For better performance or to avoid CORS issues with textures, it is recommended to use a local server (like Live Server in VS Code).*
 
-## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
 
 *Created with ❤️ using Three.js and Computer Vision.*
