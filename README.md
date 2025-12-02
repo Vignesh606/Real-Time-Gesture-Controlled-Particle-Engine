@@ -4,10 +4,6 @@ A real-time, gesture-controlled 3D particle system using Three.js and MediaPipe.
 
 A touchless, interactive 3D particle simulation that morphs and reacts to hand gestures in real-time. Built with **Three.js** for high-performance rendering and **MediaPipe** for AI-powered hand tracking.
 
-![Project Banner](https://via.placeholder.com/800x400?text=Placeholder+For+Your+Screenshot+Here)
-## 🚀 Live Demo
-[**Click here to view the Live Demo**](#) *(Add your Vercel/GitHub Pages link here)*
-
 ## ✨ Features
 
 * **🖐️ Real-Time Hand Tracking:** Uses Computer Vision to detect hand landmarks instantly in the browser.
